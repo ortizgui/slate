@@ -17,3 +17,7 @@ Blablabla
 ### How do I start using the APIs on my site? 
 
 Blablabla
+
+## Videos
+
+[![](images/Iti-Video-01.jpg)](http://www.youtube.com/watch?v=NzZR-VZqXek)
