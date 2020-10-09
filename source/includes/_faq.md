@@ -20,4 +20,4 @@ Blablabla
 
 ## Videos
 
-[![](images/Iti-Video-01.jpg)](http://www.youtube.com/watch?v=NzZR-VZqXek)
+[![](images/learn-git.jpg)](https://www.youtube.com/watch?v=IHaTbJPdB-s)
